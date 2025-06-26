@@ -2,7 +2,7 @@
 
 ### **CC 80215162, Bogotá. Colombia**
 ## Introduction to Deep Learning - Final Project
-## **Comprehensive Soil Classification using Generative Adversarial Networks**
+## **Soil Classification and Augmentation with CNNs and GANs**
 
 ## **0. Project Topic:**
 
